@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/bin/Debug/net6.0/task8.4
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/bin/Debug/net6.0/task8.4.deps.json
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/bin/Debug/net6.0/task8.4.runtimeconfig.json
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/bin/Debug/net6.0/task8.4.dll
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/bin/Debug/net6.0/task8.4.pdb
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.AssemblyInfo.cs
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.dll
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/refint/task8.4.dll
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.pdb
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/task8.4.genruntimeconfig.cache
+/Users/egornagorny/Desktop/gb домашка/home8/task8.4/obj/Debug/net6.0/ref/task8.4.dll
